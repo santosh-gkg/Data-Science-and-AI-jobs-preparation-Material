@@ -33,7 +33,7 @@ To contribute:
 6. Create a new Pull Request
 
 ### Mail me
- you can also mail me at [mail](santoshkumgkg@gmail.com) for content addition or any other queries.
+ you can also mail me at [santoshkumgkg@gmail.com](https://mail.google.com/mail/u/0/?to=msa23005@iiitl.ac.in&su=thanks+for+helping&body=you+can+write+here&fs=1&tf=cm) for content addition or any other queries.
 
 ## Code of Conduct
 
