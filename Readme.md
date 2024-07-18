@@ -32,6 +32,9 @@ To contribute:
 5. Push to the branch (`git push origin feature/your-feature-name`)
 6. Create a new Pull Request
 
+### Mail me
+ you can also mail me at [mail](santoshkumgkg@gmail.com) for content addition or any other queries.
+
 ## Code of Conduct
 
 Please note that this project is released with a [Contributor Code of Conduct](CODE_OF_CONDUCT.md). By participating in this project you agree to abide by its terms.
